@@ -20,7 +20,7 @@ This program is written entirely on **Python**. This project uses the `Keras` li
 
 It is recommended to create an environment with the packages above if running locally. 
 
-The data necessary to run the code can be found in [the Plants Seedlings dataset site](https://vision.eng.au.dk/plant-seedlings-dataset or [Kaggle](https://www.kaggle.com/competitions/plant-seedlings-classification-cs429529/data). Make sure to download it and place it in the same folder (or update the locations in the notebooks themselves) before running the notebooks.
+The data necessary to run the code can be found in [the Plants Seedlings dataset site](https://vision.eng.au.dk/plant-seedlings-dataset) or [Kaggle](https://www.kaggle.com/competitions/plant-seedlings-classification-cs429529/data). Make sure to download it and place it in the same folder (or update the locations in the notebooks themselves) before running the notebooks.
 
 
 ## Execution
