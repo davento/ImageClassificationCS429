@@ -1,0 +1,7 @@
+name: image-classification
+channels:
+  - defaults
+dependencies:
+  - pip
+  - pip:
+      - pip-tools
